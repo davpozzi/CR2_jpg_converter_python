@@ -33,19 +33,19 @@ pip install rawpy Pillow
 Run the script from the terminal and pass the path to the folder containing the CR2 files:
 
 ```bash
-python converti_cr2.py "/path/to/your/photos"
+python script.py "/path/to/your/photos"
 ```
 
 ### Windows
 
 ```bash
-python converti_cr2.py "C:\Users\YourName\Pictures\Photos"
+python script.py "C:\Users\YourName\Pictures\Photos"
 ```
 
 ### macOS / Linux
 
 ```bash
-python3 converti_cr2.py "/home/yourname/Pictures/Photos"
+python3 script.py "/home/yourname/Pictures/Photos"
 ```
 
 ## Example
